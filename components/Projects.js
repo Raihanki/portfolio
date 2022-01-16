@@ -2,7 +2,7 @@ export default function Projects() {
     return (
         <div className='w-full p-2 text-gray-200 border-2 border-yellow-500 rounded shadow-sm md:w-1/2'>
             <div className='pb-2 border-b border-gray-400'>
-                <h1 className='px-2 text-xl font-bold'>Some Things I've Built</h1>
+                <h1 className='px-2 text-xl font-bold'>Some Things I&apos;ve Built</h1>
             </div>
             <div className='px-2 py-3'>
                 <div className='mb-3'>
@@ -13,9 +13,9 @@ export default function Projects() {
                     </p>
                 </div>
                 <div className='mb-3'>
-                    <h2 className='text-lg text-yellow-500'>Online Shop Pempek Lema'k 179</h2>
+                    <h2 className='text-lg text-yellow-500'>Online Shop Pempek Lema&apos;k 179</h2>
                     <p className="leading-relaxed">
-                        Website of Pempek Lema'k 179 store, created using
+                        Website of Pempek Lema&apos;k 179 store, created using
                         Laravel, Raja Ongkir API and Midtrans for payment gateway
                     </p>
                 </div>
